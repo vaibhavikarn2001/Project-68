@@ -28,11 +28,23 @@ body
 #camplife{
     background:linear-gradient(to right, #73092b,#e80951);
 }
+.nameofp{
+    color:antiquewhite;
+}
+#contact iframe{
+    width:100%;
+}
+#whatsnew{
+        background:linear-gradient(to right, #73092b,#e80951);
+}
 h5{
     font-family:  'Hanalei', cursive;
 }
 .text-muted text-left{
     font-family: color:white;
+}
+.list-group-item-text{
+    font-size:20px;
 }
 .row::after{
     content:""
@@ -49,7 +61,6 @@ h5{
     height:300px;
 }
 #marqueeStyle{
-  background-color:aqua;  
   font-size:20px;
   color:white;
   font-family:sans-serif;
